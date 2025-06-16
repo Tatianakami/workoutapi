@@ -50,12 +50,6 @@ Saiba mais: [Documentação Oficial](https://fastapi.tiangolo.com/)
 
 A modelagem da API simula um cenário de competição com atletas, centros de treinamento e categorias. Abaixo, a modelagem de entidade-relacionamento (MER):
 
-## 📸 Captura de Tela
-
-<div align="center">
-  <img src="assets/mer.jpg" alt="MER da aplicação WorkoutAPI" width="500"/>
-</div>
-
 
 ---
 
