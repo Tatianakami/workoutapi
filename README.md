@@ -7,7 +7,7 @@ Unindo duas paixões — **codar** e **treinar** — nasceu a **WorkoutAPI**, um
 ---
 
 <div align="center">
-  <img src="mer.jpg" alt="MER - Modelagem de Entidade e Relacionamento" width="400"/>
+  <img src="mer.jpg" alt="MER - Modelagem de Entidade e Relacionamento" width="700"/>
 </div>
 
 
